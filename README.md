@@ -1,6 +1,8 @@
 # Steam Publisher — Godot Editor Plugin
 
 A Godot 4.5 editor plugin that generates VDF build scripts and uploads your game to Steam via `steamcmd`, without leaving the editor. Supports multiple named build profiles.
+<img width="1607" height="525" alt="image" src="https://github.com/user-attachments/assets/272206fd-29e8-42d7-afef-4ec3b3cc06b1" />
+
 
 ## Requirements
 
